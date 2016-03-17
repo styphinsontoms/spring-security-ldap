@@ -1,0 +1,1 @@
+A tutorial for integrating Spring Security - MVC: Using an LDAP Authentication Provider
